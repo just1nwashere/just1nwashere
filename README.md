@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm Just1N INC.</h1>
+<h1 align="center">Hi 👋, Merhaba Ben Just1N INC.</h1>
 <h3 align="center">Merhaba Ben Just1N INC. Discord BOT'u Geliştiriyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just1n0057&label=Profile%20views&color=0e75b6&style=flat" alt="just1n0057" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just1n0057" alt="just1n0057" /></a> </p>
 
-- Aoi.js Full Stack [Aoi.js](https://github.com/AkaruiDevelopment/aoi.js)
-
-- Aoi.js AltYapısı **V6**
-
-- Discord Birleşmiş Botçular Birliği [DBBB](https://github.com/ArviSlayer/Discord-Birlesmis-Botcular-Birligi)
-
-- Eris AltYapısı [Eris.js](https://github.com/Just1N0057/Eris-V6-Altyapi)
+- Discord Birleşmiş Botçular Birliği Üyesi **DBBB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
