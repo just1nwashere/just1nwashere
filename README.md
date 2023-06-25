@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Merhaba Ben Just1N INC.</h1>
+<h1 align="center">👋 Just1N INC. Profile</h1>
 <h3 align="center">Merhaba Ben Just1N INC. Discord BOT'u Geliştiriyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just1n0057&label=Profile%20views&color=0e75b6&style=flat" alt="just1n0057" /> </p>
