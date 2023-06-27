@@ -10,8 +10,8 @@
 # Bana Ulaş
 <h3 align="left">Bana Ulaş:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/just1n.bot.inc." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="just1n.bot.inc." height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/h85z3Ct6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/h85z3Ct6" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Just1N.BOT.INC." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Just1N.BOT.INC." height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/h85z3Ct6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nUZfdwu4r7" height="30" width="40" /></a>
 </p>
 
 # Kodlama Ve Programlar
