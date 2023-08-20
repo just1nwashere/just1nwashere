@@ -1,4 +1,4 @@
-<h1 align="center">👋 Just1N INC. Profile</h1>
+<h1 align="center">👋 Just1N Profile</h1>
 <h3 align="center">Merhaba Ben Just1N Discord BOT'u Geliştiriyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just1nwashere&label=Profile%20views&color=0e75b6&style=flat" alt="just1nwashere" /> </p>
