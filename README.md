@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just1nwashere" alt="just1nwashere" /></a> </p>
 
-![Static Badge](https://img.shields.io/badge/Discord?logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F845223135111544832)
-
 - **Aoi.js Medium Stack Coder**
 
 <h3 align="left">Connect with me:</h3>
