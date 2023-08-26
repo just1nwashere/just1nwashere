@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+I+A'm+JustSoMos)](https://git.io/typing-svg)</h1>
+<h1 align="center"> Hi İ A'am JustSoMos </h1>
 <h3 align="center">Merhaba Ben Just1N Discord BOT'u Geliştiriyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just1nwashere&label=Profile%20views&color=0e75b6&style=flat" alt="just1nwashere" /> </p>
