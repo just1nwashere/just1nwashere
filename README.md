@@ -17,6 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=just1nwashere&show_icons=true&locale=en" alt="just1nwashere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=just1nwashere&" alt="just1nwashere" /></p>
-
-
-<iframe src="https://discord.com/widget?id=1140935251124834406&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
