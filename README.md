@@ -2,7 +2,7 @@
 
 **Ben Just 2 Senedir Discord Botu Yapıyorum.**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B54F7&center=true&random=false&width=435&lines=%C4%B0leti%C5%9Fime+Ge%C3%A7.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2930F7&center=true&random=false&width=435&lines=Kulland%C4%B1%C4%9F%C4%B1m+Diller++%3C%2F%3E)](https://git.io/typing-svg)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
