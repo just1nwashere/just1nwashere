@@ -7,7 +7,7 @@
 
 - /agalars [https://discord.gg/agalarsxd](https://discord.gg/agalarsxd)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">İletişime Geç.</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/tZDdXd5KuX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tZDdXd5KuX" height="30" width="40" /></a>
 </p>
