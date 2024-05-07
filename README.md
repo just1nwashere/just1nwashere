@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Selam+Ben+Just)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just1nwashere&label=Profile%20views&color=0e75b6&style=flat" alt="just1nwashere" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just1nwashere" alt="just1nwashere" /></a> </p>
