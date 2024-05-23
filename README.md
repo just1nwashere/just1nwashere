@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=just1nwashere" alt="just1nwashere" /></a> </p>
 
-- Thenetwork.ınc [https://discord.gg/kVPwUWRWYW](https://discord.gg/kVPwUWRWYW)
+- Mutlu World [Link](https://discord.gg/m5UpBuS8u6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
