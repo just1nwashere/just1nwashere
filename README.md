@@ -10,7 +10,7 @@ class უბრალოდ {
     constructor(options) {
         this.name = "Just1n",
         this.sex = "Man",
-        this.length = "183",
+        this.length = "179",
         this.type = "human",
         this.job = "Potçu",
         this.weight = "79",
