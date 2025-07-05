@@ -1,6 +1,6 @@
 # Benim Diyarım.
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/845223135111544832?hideDiscrim=true)](https://discord.com/users/845223135111544832)
-<h2>Discord Sunucum</h2>
+# Discord Sunucum
 - [**Türkiye Komunist Partisi.**](https://discord.gg/tkp)
 
 <h2>Ben Kimim</h2>
